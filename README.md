@@ -135,6 +135,17 @@ Make sure to read the following guide in detail if you want to start contributin
 
 * guest speaker angular.js
 
+## Vue.js
+
+####what is vue.js
+Vue.js are reactive components for Modern Web Interfaces, it is a library for building web interfaces.
+
+####useful links
+* http://vuejs.org/guide/
+* http://blog.evanyou.me/2015/10/25/vuejs-re-introduction/
+* https://github.com/vuejs
+* https://auth0.com/blog/2015/11/13/build-an-app-with-vuejs/
+
 ## Realtime apps with node.js and socket.io
 
 ####what is node.js
